@@ -1,8 +1,8 @@
 # HOW-TO-PUSH-IN-GIT-EASILY
 
 ```
-open GIT BASH
-navigate to project directory
+Open Git BASH
+Navigate to project directory.
 
 $ git init
 
