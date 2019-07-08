@@ -12,7 +12,7 @@ To unstage a file, use 'git reset HEAD YOUR-FILE'.
 
 $ git commit -m "FIRST COMMIT"  
 
-$ git remote add origin remote repository URL
+$ git remote add origin 'remote repository URL'.
 # Sets the new remote
 
 $ git remote -v
